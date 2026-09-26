@@ -1,4 +1,4 @@
-Write your reflection here.
+I learned that running a script on pure native Python elements differs from scripts incorporating Streamlit code. Mainly, the way sessions are handled and the necessity of st.session state for the program to run properly. It was a bit confusing to get adjusted to this new facet of code, but seeing how it works in a seperate environment was interesting and pootentially useful for Python projects in the future, and gave me a new perspective on how code that's actually put in use must be accounted for. I might need more practice in figuring out how to apply more elements of regular Python into Streamlit scripts, and how session permanence changes code.
 
 See reflection.md for what makes a good reflection — be specific, use the
 terminology from this assignment (rerun, widget, return value, guard, bytes vs.
